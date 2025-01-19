@@ -17,10 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
-copyright = 'keyestudio , WiKi'
-author = 'keyestudio WiKi'
-copyright = 'Shenzhen keyestudio Technology Co., Ltd'
+project = 'keyes WiKi'
+copyright = 'keyes , WiKi'
+author = 'keyes'
+copyright = 'Shenzhen keyes DIY Co., Ltd'
 
 # -- General configuration ---------------------------------------------------
 
